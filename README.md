@@ -7,9 +7,3 @@ The library is designed to have a fluent syntax, making it easy to generate data
 *   [Bogus Documentation](https://github.com/bchavez/Bogus)
     
 *   Video Guide on using Bogus: [https://www.youtube.com/watch?v=T9pwE1GAr\_U](https://www.youtube.com/watch?v=T9pwE1GAr_U)
-    
-
-*   You can install Bogus via the NuGet Package Manager, or in the Console by running:
-```
-        Install-Package Bogus
-```
