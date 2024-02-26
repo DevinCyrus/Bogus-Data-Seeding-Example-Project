@@ -1,0 +1,33 @@
+# Ignore Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.vscode
+
+# Ignore NuGet packages
+*.nuget.props
+*.nuget.targets
+packages/
+
+# Ignore build output
+*.dll
+*.exe
+
+# Ignore user-specific files
+*.userprefs
+*.suo
+*.cache
+*.vscode
+*.sln.docstates
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore project-specific files
+/appsettings.json
