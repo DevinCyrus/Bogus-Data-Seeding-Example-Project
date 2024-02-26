@@ -6,8 +6,6 @@ The library is designed to have a fluent syntax, making it easy to generate data
 
 *   [Bogus Documentation](https://github.com/bchavez/Bogus)
     
-*   [Repository of the demo project referenced in this documentation](https://github.com/DevinCyrus/Bogus-Data-Seeding-Example-Project)
-    
 *   Video Guide on using Bogus: [https://www.youtube.com/watch?v=T9pwE1GAr\_U](https://www.youtube.com/watch?v=T9pwE1GAr_U)
     
 
